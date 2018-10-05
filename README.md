@@ -1,1 +1,1 @@
-# sample-react-project
+# Wallpaper Search App made with React with Redux
