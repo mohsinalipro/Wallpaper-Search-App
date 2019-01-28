@@ -1,5 +1,8 @@
 # Wallpaper Search App 
-One-Page web app to search amazing wallpapers. Made with ❤, React with Redux and Pixabay API
+React App to search images using Pixabay API, and display them in a grid layout.
+
+## Demo
+https://reactapp.mohsina.li/
 
 ## Requirements
 
@@ -102,6 +105,9 @@ Then it will try a production build.
 ### JavaScript
 
 ### CSS
+
+### Redux
+Store & Manage app state
 
 ### ReactStrap
 More info: http://reactstrap.github.io/
