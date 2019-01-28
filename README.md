@@ -1,5 +1,5 @@
 # Wallpaper Search App 
-Made with ❤ & React with Redux
+One-Page web app to search amazing wallpapers. Made with ❤, React with Redux and Pixabay API
 
 ## Requirements
 
